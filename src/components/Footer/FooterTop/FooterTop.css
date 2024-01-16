@@ -1,0 +1,22 @@
+.footer-top {
+  display: flex;
+  align-items: center;
+  height: 150px;
+  border-bottom: 1px solid rgba(11, 18, 25, 0.2);
+  background: #e5f9f8;
+}
+.footer-logo {
+  flex: 3;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.footer-desc {
+  flex: 9;
+}
+
+.footer-img {
+  width: "200px";
+  height: auto;
+}
